@@ -1,5 +1,6 @@
 def soma(a, b):
-    resultado = a + b
-    print(f'O resultado da soma é: {resultado}')
+    return a + b
 
-input(soma)
+def multiplicacao(a, b):
+    c+b=4
+    return a * b
